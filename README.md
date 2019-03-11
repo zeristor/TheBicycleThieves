@@ -9,6 +9,18 @@ Using open data from the English police force, extract the number of bicycle the
 The final price for bicycle insurance is **£18,707**
 
 
+## Instructions
+
+The zip file of data can be downloaded from:
+
+https://data.police.uk/data/fetch/b64c3f4a-ca76-47a0-b231-c7251bd85be1/
+
+this needs to be unzipped into the ./data directory
+
+The notebook is ./notebooks, and will pick up the data files to process them.
+
+
+
 ## Obtaining the data
 A link was provided to the Police's open data, a large zip file of 30 months of data, each with the results for the 45 or so English police forces monthly csv data for all crimes was downloaded.
 
