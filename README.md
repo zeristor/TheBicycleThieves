@@ -8,6 +8,8 @@ Using open data from the English police force, extract the number of bicycle the
 
 The final price for bicycle insurance is **£18,707**
 
+![Bicycle Insurance Price graph](./figures/BicycleInsurancePrice.png)
+
 
 ## Instructions
 
